@@ -1,5 +1,5 @@
 # Manual testing task 
-It is a manual testing project in both UI and API Level.Here, the main focus is sysytem testing process in an e-commerce platform.
+It is a manual testing project in both UI and API Level.Here, the main focus is sysytem testing process of an e-commerce platform.
 
 # Given Task Assesment
 # Q1|[Mark 20] 
